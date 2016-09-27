@@ -1,0 +1,116 @@
+
+
+body{
+  
+}
+
+.topbar{
+  color: white;
+  background-color: #0078D7;
+  font-size: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.menu_icon{
+  margin-right: 0px;
+}
+
+.menu_column{
+  background-color: #ededed  ;
+  color: #97A6B1;
+  font-size: 16px;
+}
+
+.hometext{
+  color: #0078D7;
+
+}
+
+.content_column{
+  background-color:#FFFFFF;
+}
+
+.time{
+  float: right;
+  color: #97A6B1;
+}
+
+.twitter_handle{
+  margin-bottom: 1px;
+  color: #97A6B1;
+}
+
+strong{
+  color: black;
+}
+
+.topbar_text{
+padding-left: 0px;
+}
+
+.tweets{
+ margin-left: 15px;
+ margin-bottom: 20px;
+}
+
+.tweetspace{
+  margin-bottom: 5px;
+}
+
+.menu_text {
+ 
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-bottom: 25px
+}
+
+.menu_icons {
+  padding-left: 10px;
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-bottom: 23px
+}
+
+.menu_space{
+  margin-bottom: 215px;
+}
+
+.icon_space{
+  margin-bottom: 15px;
+}
+
+hr{
+  color: #ededed;
+  background-color: #ededed;
+  height: 1px; 
+  padding-left: 0px;
+  margin-top: 5px;
+  margin-bottom: 25px;
+}
+
+.right-column {
+  font-size: 14.5px;
+  margin-top: 45px;
+}
+
+.preview-box{
+ background-color: #ededed;
+ margin-bottom: 15px;
+ padding-right: 0px;
+ padding-bottom: 7px;
+}
+
+.preview-title{
+  margin-top: 13px;
+  margin-left: 15px;
+  margin-bottom: 0px
+}
+
+
+.preview-text{
+  margin-left: 15px;
+  margin-bottom: 0px;
+  font-size: 13.5px;
+}
+
